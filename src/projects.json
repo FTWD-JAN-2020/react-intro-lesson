@@ -19,5 +19,13 @@
       "year": 2017,
       "technologies": "Mongo DB, ExpressJS, Angular2, NodeJS, JavaScript, HTML, CSS",
       "description": "Web App that allows logged in users to plan your next activity with your friends or business partners."
+  },
+  {
+        "id": "k1u234hui2435u2432345g2345",
+        "name": "Smash Bros!",
+        "year": 2018,
+        "technologies": "C++",
+        "description": "Nintendo Classic Battle Royale between hereos and villains!"
+
   }
 ]
